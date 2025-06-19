@@ -142,7 +142,7 @@
 
 .contact-form-section {
   position: absolute;
-  background-color: #F9FDFE !important;
+  background-color: #f9fdfe !important;
   padding: 2rem;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.03);
   right: 0;
@@ -258,7 +258,7 @@
     padding: 1.2rem 0.5rem 1.5rem 0.5rem;
   }
 
-  .conto{
+  .conto {
     padding: 1rem !important;
   }
 }
@@ -270,11 +270,11 @@
     min-height: unset;
   }
 
-  .conto{
+  .conto {
     padding: 2rem;
   }
-  
-  .dev{
+
+  .dev {
     margin-bottom: 3rem;
   }
 

@@ -57,7 +57,7 @@ function Footer() {
               California 62639
             </div>
             <div className="footer-copy">
-              <p>© 2025 Alatishe. All rights reserved.</p>
+              <p>© 2025 TanbatDev. All rights reserved.</p>
             </div>
           </div>
           <div className="footer-socials">
