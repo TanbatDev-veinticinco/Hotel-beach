@@ -31,9 +31,6 @@ function Nav() {
       <nav className="nav">
         <Link to="/OurHotel">Our Hotel</Link>
         <Link to="/RoomsPage">Rooms</Link>
-        <a href="#restaurant">Restaurant</a>
-        <a href="#event">Event</a>
-        <a href="#service">Services</a>
         <Link to="/ContactPage">Contact</Link>
       </nav>
       <div
@@ -59,15 +56,6 @@ function Nav() {
           <Link to="/RoomsPage" onClick={() => setMenuOpen(false)}>
             Rooms
           </Link>
-          <a href="#restaurant" onClick={() => setMenuOpen(false)}>
-            Restaurant
-          </a>
-          <a href="#event" onClick={() => setMenuOpen(false)}>
-            Event
-          </a>
-          <a href="#service" onClick={() => setMenuOpen(false)}>
-            Service
-          </a>
           <Link to="/ContactPage" onClick={() => setMenuOpen(false)}>
             Contact
           </Link>
