@@ -15,9 +15,9 @@ const roomData = [
 function RoomsPage() {
   return (
     <section>
-      <div className="our-sec">
-        <div className="sec-overlay">
-          <h1 className="sec-text">Rooms</h1>
+      <div className="rooms-sec">
+        <div className="room-overlay">
+          <h1 className="room-text">Rooms</h1>
         </div>
       </div>
       <div className="content">

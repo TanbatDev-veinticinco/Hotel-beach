@@ -1,4 +1,4 @@
-.our-sec {
+.rooms-sec {
   background-image: url(../assets/roombg.jpg);
   background-size: cover;
   background-position: center;
@@ -14,7 +14,7 @@
   overflow: hidden;
 }
 
-.sec-overlay {
+.room-overlay {
   position: absolute;
   top: 0;
   left: 0;
@@ -27,7 +27,7 @@
   justify-content: flex-start;
 }
 
-.sec-text {
+.room-text {
   font-family: "Zodiak", "Zodiak Placeholder", serif;
   color: white;
   font-size: 48px;
